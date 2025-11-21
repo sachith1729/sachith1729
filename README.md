@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0000,FF9900&height=220&section=header&text=THE%20CSD%20DEFENDER&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SACHITH%20R%20//%20ORIGIN%20VTU&descSize=20&descAlignY=70&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0000,FF9900&height=220&section=header&text=THE%20NEURAL%20KNIGHT&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CODING%20THE%20FUTURE%20//%20INITIATE%20DEFENSE%20PROTOCOL&descSize=20&descAlignY=70&descColor=ffffff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=500&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=POW!%20AI%20RESEARCHER%20ONLINE;ZAP!%20DEPLOYING%20DEEPFAKE%20DEFENSES;BAM!%20CODING%20FULL-STACK%20APPLICATIONS;GOAL!%20SUPPORTING%20BENGALURU%20BULLS%20🐂" alt="Typing SVG" />

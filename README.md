@@ -14,7 +14,7 @@
 
   ### 👾 Welcome to my Neon Digital Playground! 👾
 
-  I'm a **Computer Science & Design** student (4th Sem) who loves crafting pixel-perfect UIs and training models to do cool stuff.
+  I'm a **Computer Science & Design** student (5th Sem) who loves crafting pixel-perfect UIs and training models to do cool stuff.
 
   <br/>
   

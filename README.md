@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0044aa,00aaff,aa00ff&height=250&section=header&text=NODE%20SACHITH%20R&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Mapping%20Neural%20Pathways%20//%20Data%20Flow%20Analyst&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&pattern=circuit&height=250&section=header&text=NODE%20SACHITH%20R&fontSize=70&fontColor=00FFFF&animation=glitch&fontAlignY=35&desc=SYSTEM%20OVERLOAD%20//%20AI%20OPERATIVE&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=PROCESSING+DEEPFAKE+DATA+STREAMS...;COMPILING+RECOMMENDATION+ALGORITHMS...;CSD+ENGINEER+NODE+OPERATIONAL+🟢;PRIORITY+TARGET:+BENGALURU+BULLS+🐂" alt="Typing SVG" />

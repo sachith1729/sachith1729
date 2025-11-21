@@ -1,47 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b1055,7597de&height=250&section=header&text=SACHITH%20R&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Exploring%20the%20Universe%20of%20AI%20%26%20Design&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A0E1FF&center=true&vCenter=true&width=600&lines=Mission:+Deepfake+Detection+Research;Mission:+Smart+Internship+Algorithms;Orbiting:+VTU+(CSD+Student);Alliance:+Bengaluru+Bulls+🐂" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F0F0F0&height=150&section=header&text=Sachith%20R&fontSize=70&fontColor=333&animation=fadeIn&fontAlignY=50&desc=CSD%20Student%20%7C%20Deep%20Learning%20%7C%20UX%20Design&descSize=20&descAlignY=80&descAlign=50&descColor=555" width="100%"/>
 
 <br/>
 
-<a href="https://sachith.vercel.app/"><img src="https://img.shields.io/badge/🚀_Launch-Portfolio-7597de?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sachith-r-abab73254/"><img src="https://img.shields.io/badge/📡_Signal-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sachith2118@gmail.com"><img src="https://img.shields.io/badge/🛸_Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👋 Hello, World!</h3>
+      <p>I am a <b>CSD Student at VTU</b> focused on building AI that matters.</p>
+      <p>
+        🔭 <b>Working on:</b> Deepfake Detection<br/>
+        🚀 <b>Building:</b> Internship Engine<br/>
+        🐂 <b>Cheering:</b> Bengaluru Bulls
+      </p>
+      <br/>
+      <a href="https://sachith.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/sachith-r-abab73254/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    </td>
+    
+    <td width="40%" valign="top" align="center">
+      <h3>🛠️ Stack</h3>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,docker,git,react,nextjs,tailwind,figma&theme=light&perline=5" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top">
+      <h3>🕵️‍♂️ Project: Deepfake AI</h3>
+      <p>Combating misinformation using <b>ResNeXt + LSTM</b>.</p>
+      <img src="https://img.shields.io/badge/Tech-Python_%7C_OpenCV_%7C_Docker-3776AB?style=flat-square"/>
+    </td>
+    
+    <td valign="top">
+      <h3>🎓 Project: Job Engine</h3>
+      <p><b>AI Recommendation System</b> for PM Internship Scheme.</p>
+      <img src="https://img.shields.io/badge/Tech-Pandas_%7C_Scikit_Learn-F7931E?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-### 🪐 Mission Log (Projects)
-
-| **MISSION: DEEPFAKE DEFENSE** | **MISSION: INTERNSHIP LINK** |
-| :--- | :--- |
-| <samp>> Protocol: Identify video anomalies using **ResNeXt + LSTM** neural networks.</samp> | <samp>> Protocol: AI matching system connecting students to the **PM Internship Scheme**.</samp> |
-| **[TECH CLUSTER]**<br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | **[TECH CLUSTER]**<br/>![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-
-<br/>
-
-### ✨ Tech Constellations (Skills)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,php,js,html,css,react,nextjs,tailwind,figma,pytorch,opencv,docker,git,linux&theme=dark&perline=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachith1729&show_icons=true&theme=buefy&hide_border=true" width="100%" />
 </div>
 
-<br/>
-
-### 🛰️ Telemetry Data (Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachith1729&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith1729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7597de,2b1055&height=80&section=footer" width="100%"/>
 </div>

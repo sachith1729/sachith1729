@@ -1,12 +1,4 @@
 
-- Use code blocks for progress / badges and ASCII art for headers.
-
----
-
-## OPTIONAL: Save as `index.html` (Full HTML/CSS/JS)
-If you want an **interactive web page** with the same funky design, copy everything in the block below into a file named `index.html` and open it in your browser. (This is a standalone page — scripts will **not** run inside GitHub README; copy to `.html` to run.)
-
-```html
 <!doctype html>
 <html lang="en">
 <head>

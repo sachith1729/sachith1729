@@ -1,53 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0077c2&height=200&section=header&text=SACHITH%20R%20//%20PRODUCT%20ROADMAP&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=EPICS%20%26%20FEATURES%20FOR%20CLASS%20OF%202026&descSize=20&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0000,FF9900&height=220&section=header&text=THE%20CSD%20DEFENDER&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SACHITH%20R%20//%20ORIGIN%20VTU&descSize=20&descAlignY=70&descColor=ffffff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=700&size=24&pause=1000&color=0077C2&center=true&vCenter=true&width=700&lines=MISSION%3A%20SHIP%20INTELLIGENT%20PRODUCTS;SPRINT%20FOCUS%3A%20AI%20%26%20UX%20INTEGRATION;RESOURCE%20ALLOCATION%3A%20VTU%20%26%20VIKASA%20EXPERIENCE;GOAL%3A%20MAXIMIZE%20BANGALURU%20BULLS%20WINS%20🐂" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=500&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=POW!%20AI%20RESEARCHER%20ONLINE;ZAP!%20DEPLOYING%20DEEPFAKE%20DEFENSES;BAM!%20CODING%20FULL-STACK%20APPLICATIONS;GOAL!%20SUPPORTING%20BENGALURU%20BULLS%20🐂" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<a href="https://sachith.vercel.app/">
+  <img src="https://img.shields.io/badge/MISSION%20HUB-PORTFOLIO-FF0000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/sachith-r-abab73254/">
+  <img src="https://img.shields.io/badge/ALLIANCE%20COMMS-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+</a>
+
 </div>
-
-### 🎯 PRODUCT BACKLOG (Current Sprints)
-
-| **Epic / Feature** | **Status** | **Key Deliverables** | **Resources** |
-| :--- | :--- | :--- | :--- |
-| **Deepfake Detection** | ![Status: In Progress](https://img.shields.io/badge/In%20Progress-FEA000?style=for-the-badge&logo=jira) | Establish **ResNeXt + LSTM** model for media validation. | `Python`, `PyTorch`, `Docker` |
-| **Internship Engine** | ![Status: Done](https://img.shields.io/badge/Completed-00AA55?style=for-the-badge&logo=jira) | Deploy skill-to-job matching for the **PM Internship Scheme**. | `Scikit-learn`, `Pandas`, `React` |
-| **Smart Pricing Tool** | ![Status: Done](https://img.shields.io/badge/Completed-00AA55?style=for-the-badge&logo=jira) | Algorithm development for competitive market pricing. | `NodeJS`, `Algorithms` (Hackathon) |
-| **AI Resume Builder** | ![Status: To Do](https://img.shields.io/badge/Planned-999999?style=for-the-badge&logo=jira) | Automated profile generation and PDF output. | `Next.js`, `Design Theory` |
 
 <br/>
 
-### 🛠️ RESOURCE POOL (Skills Inventory)
+### 💥 THE ORIGIN STORY (Affiliations)
 
-<div align="center">
-  <p>Available resources and tool proficiency.</p>
-</div>
+> **[CSD ORIGIN]:** My journey began in the **Computer Science & Design** program at **VTU**. This dual focus grants me the **Superpower** of combining backend logic with aesthetic UI/UX.
+>
+> **[EARLY TRAINING]:** Initial education was completed at **Vikasa PU College (PCMC Stream)** and **Vikasa High School (84% SSLC)** in Shivamogga.
 
-| **Resource Type** | **Modules (Logos)** |
+<br/>
+
+---
+
+### 🚀 THE ARSENAL (Gadgets & Superpowers)
+
+| **Superpower** | **Core Gadgets (Logos)** |
 | :--- | :--- |
-| **Core Languages** | <img src="https://skillicons.dev/icons?i=python,c,php,js,html,css&theme=light" /> |
-| **Design & Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,canva&theme=light" /> |
-| **AI / Machine Learning** | <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,docker,linux&theme=light" /> |
-| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=mysql,nodejs,express,git,vscode&theme=light" /> |
+| **Deep Learning & AI** | <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,python,docker&theme=dark" /> |
+| **Frontend Velocity** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,js,html,css&theme=dark" /> |
+| **Backend & Systems** | <img src="https://skillicons.dev/icons?i=c,php,mysql,nodejs,git,linux&theme=dark" /> |
 
 <br/>
 
-### 📊 VELOCITY & BURN-DOWN (Metrics)
+---
+
+### 🎯 THE MISSIONS (Project Briefs)
+
+| **MISSION 1: DEEPFAKE ANNIHILATION** | **MISSION 2: INTERNSHIP MATCHMAKER** |
+| :--- | :--- |
+| **Objective:** Neutralize misinformation threats in video media. | **Objective:** Efficiently guide students to opportunities (PM Internship Scheme). |
+| **Methodology:** Frame analysis utilizing **ResNeXt** and **LSTM** neural pathways. 
+
+[Image of Simple Neural Network Diagram]
+ | **Methodology:** Semantic matching via **Scikit-learn** and data parsing. |
+| **Status:** Active Research & Docker Deployment. | **Status:** Mission Accomplished (V1.0 Deployed). |
+
+| **MISSION 3: PRICING PARADOX** | **MISSION 4: DESIGN & SUPPORT** |
+| :--- | :--- |
+| **Objective:** Develop dynamic e-commerce pricing algorithms (Hackathon). | **Objective:** Maintain high-quality creative assets and team morale. |
+| **Tools:** `NodeJS`, Custom Optimization Algorithms. | **Affiliation:** Pro Kabaddi League (Bengaluru Bulls Fan). |
+
+<br/>
+
+---
+
+### 📊 POWER LEVEL (Contribution Metrics)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachith1729&show_icons=true&theme=buefy&hide_border=true&title_color=0077C2&icon_color=0077C2" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachith1729&theme=buefy&hide_border=true&background=ffffff&ring=0077C2&fire=0077C2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachith1729&show_icons=true&theme=default&hide_border=true&title_color=FF0000&icon_color=FF0000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachith1729&theme=default&hide_border=true&ring=FF0000&fire=FF0000" width="48%" />
 </div>
 
-<br/>
-
-### ℹ️ PROJECT ARCHIVE (Education & Interests)
-
-* **Project Lead Affiliation:** Computer Science & Design Department, **VTU**.
-* **Initial Training:** **Vikasa PU College** (PCMC Stream).
-* **Stakeholder Interest:** Pro Kabaddi League (Bengaluru Bulls Fan).
-* **Documentation:** [Email Sachith](mailto:sachith2118@gmail.com) or [Visit Portfolio](https://sachith.vercel.app/).
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9900,FF0000&height=80&section=footer" width="100%"/>
+</div>

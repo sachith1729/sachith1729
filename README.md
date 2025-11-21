@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=gradient&height=180&section=header&text=PLAYER%201:%20SACHITH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=INSERT%20COIN%20TO%20BEGIN%20//%20CSD%20STUDENT&descSize=20&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,100&height=220&section=header&text=PLAYER%201:%20SACHITH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=INSERT%20COIN%20TO%20START&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Loading+CSD+Profile...;Select+Your+Hero:+AI+Researcher;Equipped+Weapon:+Deep+Learning;Guild:+VTU+%2F+Bengaluru+Bulls+🐂;READY!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Loading+CSD+Profile...;Class:+AI+Researcher+%2F+Dev;Weapon:+Deep+Learning+Models;Guild:+VTU+%2F+Bengaluru+Bulls+🐂;READY!;" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -73,5 +73,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pixel&color=gradient&height=80&section=footer&text=GAME%20OVER%20//%20THANKS%20FOR%20PLAYING!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,0,100&height=80&section=footer&text=GAME%20OVER%20//%20THANKS%20FOR%20PLAYING!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 </div>

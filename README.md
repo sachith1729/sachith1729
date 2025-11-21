@@ -1,77 +1,57 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=250&section=header&text=Sachith%20R&fontSize=80&animation=fadeIn&fontAlignY=35&desc=CSD%20Student%20%7C%20Design%20%2B%20Code&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=222222&height=200&section=header&text=SACHITH%20R&fontSize=70&fontColor=ff3333&animation=fadeIn&fontAlignY=40&desc=RACE%20READY%20//%20CSD%20ENGINEER&descSize=20&descAlignY=70&stroke=ff3333&strokeWidth=2" width="100%"/>
 
   <br/>
-
-  <a href="https://sachith.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=social"/></a>
-  <a href="https://www.linkedin.com/in/sachith-r-abab73254/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=social"/></a>
-  <a href="https://github.com/sachith1729"><img src="https://img.shields.io/badge/🐙%20GitHub-Follow-blue?style=social"/></a>
-
+  
+  <a href="https://sachith.vercel.app/"><img src="https://img.shields.io/badge/🏎️_PORTFOLIO-LAUNCH-ff3333?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/sachith-r-abab73254/"><img src="https://img.shields.io/badge/⚙️_LINKEDIN-CONNECT-0077B5?style=for-the-badge"/></a>
+  
 </div>
 
----
+<br/>
 
-### 🚀 Project Gallery
+### 📋 Driver Profile (Specs)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🕵️ Deepfake Detection</h3>
-      <p align="center">Combating misinformation with AI.</p>
-      <p>
-        🔹 <b>Tech:</b> Python, OpenCV, PyTorch<br/>
-        🔹 <b>Core:</b> ResNeXt + LSTM Networks<br/>
-        🔹 <b>Deploy:</b> Docker Containers
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎓 Internship Engine</h3>
-      <p align="center">AI-powered job matching.</p>
-      <p>
-        🔹 <b>Tech:</b> Pandas, Scikit-Learn<br/>
-        🔹 <b>Logic:</b> Resume Parsing & Skill Match<br/>
-        🔹 <b>Event:</b> PM Internship Scheme
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛍️ Smart Pricing</h3>
-      <p align="center">Hackathon Optimization Tool.</p>
-      <p>
-        🔹 <b>Tech:</b> NodeJS, Algorithms<br/>
-        🔹 <b>Goal:</b> Dynamic Market Analysis<br/>
-        🔹 <b>Status:</b> Challenge Completed
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ Quick Bits</h3>
-      <p align="center">More about me.</p>
-      <p>
-        🏫 <b>Edu:</b> CSD @ VTU / Vikasa PU<br/>
-        🐂 <b>Fan:</b> Bengaluru Bulls (Kabaddi)<br/>
-        🎥 <b>Hobby:</b> AI Video Generation
-      </p>
-    </td>
-  </tr>
-</table>
+| **Category** | **Specification** |
+| :--- | :--- |
+| **Model / Driver** | **Sachith R** (Class: CSD Student) |
+| **Manufacturer** | **VTU (Visvesvaraya Tech Univ)** |
+| **Origin** | **Vikasa PU College** (Shivamogga) |
+| **Team** | **Bengaluru Bulls** (Pro Kabaddi League) 🐂 |
 
----
+<br/>
 
-### 🎨 Tech Stack
+### 🔧 Under the Hood (The Engine)
+
+> **Turbochargers (AI/ML):**
+> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+> **Transmission (Languages):**
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+> **Bodywork (Frontend):**
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+<br/>
+
+### 🏁 The Garage (Projects)
+
+| **Vehicle** | **Modifications / Tech** | **Performance Stats** |
+| :--- | :--- | :--- |
+| **Deepfake Detector** | `ResNeXt` `LSTM` `Docker` | **0-100 in 3s.** Detects video manipulation anomalies frame-by-frame. |
+| **Internship Engine** | `Pandas` `Scikit-Learn` | **Navigation System.** AI-driven route matching students to jobs. |
+| **Smart Pricing** | `NodeJS` `Algo` | **Fuel Efficiency.** Dynamic pricing algorithm for e-commerce optimization. |
+
+<br/>
+
+### 📟 Telemetry Data (Stats)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,html,css" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,docker,git,mysql" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,php,linux,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachith1729&show_icons=true&theme=radical&hide_border=true&bg_color=111111&title_color=ff3333&icon_color=ff3333" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith1729&layout=compact&theme=radical&hide_border=true&bg_color=111111&title_color=ff3333&text_color=ffffff" width="48%" />
 </div>
 
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachith1729&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith1729&layout=compact&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=222222&height=80&section=footer" width="100%"/>
 </div>

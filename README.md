@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0000,FFD700&height=220&section=header&text=RCB%20SQUAD%20//%20SACHITH%20R&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Ee%20Saala%20Cup%20Namde!%20%7C%20CSD%20ALL-ROUNDER&descSize=20&descAlignY=70&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0000,FFD700&height=220&section=header&text=M.%20CHINNASWAMY%20STADIUM&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=PLAYER%20SACHITH%20R%20//%20LIVE%20ANALYTICS%20FEED&descSize=20&descAlignY=70" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=PLAYER%20NAME%3A%20SACHITH+(CODE%2FDESIGN);KEY%20STAT%3A%20DEEPFAKE%20DETECTION%20RATE%3A%2099%25;SPECIALTY%3A%20FULL-STACK%20INNOVATION;MOTTO%3A%20PLAY%20BOLD%2C%20BUILD%20SMARTER!;" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 | **PROJECT INNINGS** | **STRATEGY (Objective)** | **RUNS SCORED (Tech Used)** | **MATCH RESULT** |
 | :--- | :--- | :--- | :--- |
 | **Deepfake Detection** 🛡️ | **Defense against misinformation.** Identify video manipulation with AI. | **ResNeXt + LSTM**, PyTorch, OpenCV, Docker. | 🌟 **WINNER** (High Accuracy) |
-| **Internship Engine** 🎓 | **Powerplay for careers.** Match students to PM Internship Scheme. | Scikit-learn, Pandas, React. | 🏆 **VICTORY** (Successful Deployment) |
+| **Internship Engine** 🎓 | **Powerplay for careers.** Match students to PM Internship Scheme. | Scikit-learn, Pandas, Resume Parsing AI. | 🏆 **VICTORY** (Successful Deployment) |
 | **Smart Pricing Algo** 🛍️ | **Strategic pricing for victory.** Dynamic algorithms for e-commerce. | NodeJS, Custom Optimization. | ✅ **CHALLENGE COMPLETED** |
 | **AI Resume Builder** 📝 | **Crafting winning profiles.** Automated resume generation. | Next.js, Figma, Design Principles. | 🚀 **READY TO DEPLOY** |
 
